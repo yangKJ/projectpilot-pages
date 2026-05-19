@@ -1,4 +1,4 @@
-# ProjectPilot
+# Packs
 
 **macOS 平台最原生的 AI 开发助手**
 
@@ -37,7 +37,7 @@
 
 ## 关于
 
-ProjectPilot 是一个运行在 macOS 上的 AI 开发助手，为 Apple 开发者提供隐私优先的本地 AI 编程体验。
+Packs 是一个运行在 macOS 上的 AI 开发助手，为 Apple 开发者提供隐私优先的本地 AI 编程体验。
 
 - 🌐 网站: https://projectpilot.com
 - 📧 邮箱: projectpilot@email.com
@@ -45,4 +45,4 @@ ProjectPilot 是一个运行在 macOS 上的 AI 开发助手，为 Apple 开发�
 
 ---
 
-*© 2026 ProjectPilot. All rights reserved.*
+*© 2026 Packs. All rights reserved.*
